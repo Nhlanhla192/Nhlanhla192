@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Python OpenCV calibration module
+- 🌱 I’m currently learning the complete Full Stack Web Development boot camp
 
 <!--
 **Nhlanhla192/Nhlanhla192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
