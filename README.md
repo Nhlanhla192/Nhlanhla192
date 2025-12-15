@@ -1,6 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Python OpenCV calibration module
-- 🌱 I’m currently learning the complete Full Stack Web Development boot camp
+
+My name is Nhlanhla Mabasa, and I am a certified full stack software developer interested in upskilling, and exploring new technologies.
+
+- 🔭 I’m currently working on a Python OpenCV calibration module for a shooting simulator.
+- 🌱 I’m currently learning Full Stack Web Development through a comprehensive bootcamp.
 
 <!--
 **Nhlanhla192/Nhlanhla192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
